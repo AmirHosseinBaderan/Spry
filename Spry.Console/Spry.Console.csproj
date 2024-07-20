@@ -1,11 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <IsPackable>false</IsPackable>
     <ApplicationIcon />
     <OutputType>Exe</OutputType>
-    <StartupObject>Spry.Console.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>

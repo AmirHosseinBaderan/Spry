@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard20</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Version>1.0.6</Version>
     <Authors>Vignesh.N</Authors>
     <License>https://github.com/vigneshmsft/Spry/blob/master/LICENSE</License>
